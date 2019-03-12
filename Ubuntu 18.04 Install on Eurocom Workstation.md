@@ -24,7 +24,7 @@ This guide will walk you through installing Ubuntu 18.04 on a Eurocom workstatio
 ## Install Ubuntu Server
 
 1. Plug in the Ethernet cable to the laptop. The installer should automatically set up the network connection once it is loaded.
-2. Boot from the liveUSB and proceed with the installation until the partition step. At this point, if you would like to set up software RAID, follow these instructions.
+2. Boot from the liveUSB and proceed with the installation until the partition step. At this point, if you would like to set up software RAID, follow [these instructions](https://github.com/Kevin2kp/Eurocom-Documentation/blob/master/Set%20up%20software%20RAID%20on%20Eurocom%20workstation.md).
 3. Complete the installation and reboot
 
 ## Install packages
