@@ -44,11 +44,11 @@ This guide will walk you through installing Ubuntu 18.04 on a Eurocom workstatio
 		 
 
    * **Keyboard back-light controller (optional)**
-   Clone the # **[tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard)** git repository by running:
-      ~~~
+   Clone the  **[tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard)** git repository by running:
+   	~~~
 	  git clone https://github.com/tuxedocomputers/tuxedo-keyboard.git
-	  ~~~
-       Then follow the instructions in the repository.
+  	~~~
+		Then follow the [instructions](https://github.com/tuxedocomputers/tuxedo-keyboard#table-of-content) in the repository.
        
     *  **Ubuntu Desktop**
      This will install a GUI and an assortment of applications. To install run:
