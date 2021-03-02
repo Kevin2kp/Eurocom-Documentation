@@ -37,7 +37,7 @@ This guide will walk you through installing Ubuntu 18.04 on a Eurocom workstatio
 		~~~
 		sudo add-apt-repository ppa:graphics-drivers/ppa
 		~~~
-		Then install the latest driver. In this case, the latest driver is 418:
+		Then install the latest driver. At the time of writing, the latest driver is 418:
 		~~~
 		sudo apt install nvidia-driver-418
 		~~~
